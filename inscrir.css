@@ -1,0 +1,78 @@
+p {
+  color: black;
+  font-size: 17px;
+  position: absolute;
+  margin-top: -2px;
+}
+footer{
+    background-color: #818182;
+    margin-left: -77%;
+}
+form{
+   
+    margin-top: 27px;
+   
+}
+input{
+    width: 120%;
+}
+button{
+        margin-top: 72px!important;
+        margin-left: 79px;
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+.fa {
+    
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  @media only screen and  (max-width:900px){
+   nav{
+      margin-top: -6%;}
+  }
